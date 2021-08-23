@@ -26,6 +26,37 @@ I have gained all my knowedge thanks to the program called IT-kariara powered by
 
 ---
 
+### Knowledge 
+
+The best part about knowledge is that it can aways be extended!
+
+I have great understanding of: 
+ - Client-server side connections
+ - Open ports
+ - REST APIs 
+ - Backend-Frontend integration
+ - OOP (Object Oriented Programming) based programs
+ - OOP (Object Oriented Programming) concepts 
+ - Complex algorithms and data structures
+ - I can build Asp.Net.Core applications with C#
+ - SQL, MySQL, PostgreSQL
+ - MVC, MVVM, MVP architecture patterns
+ - I can work with Razor Pages
+ - SOLID Principles
+ - HTTP requests, HTTP responses, TCP, UDP
+ - Security, Authentication, Authorization
+ - I have a little knolwadge of HTML and CSS
+
+---
+
+### Weakness 
+
+My biggest weakness is frontend, since I have aways been working with backend technologies. 
+I'm working on becoming better at the frontend part and my goal is to master HTML, CSS, JavaScript and use it not only for frontend (React.js), but
+also for backend (Express.js, Node.js).
+
+---
+
 ### Currently working on:
 
 - Personal portfolio website
@@ -58,8 +89,6 @@ I have gained all my knowedge thanks to the program called IT-kariara powered by
 <img align="left" alt="JavaScript" width="25px" src="./images/node.svg" />
 <img align="left" alt="JavaScript" width="25px" src="./images/react.svg" />
 <img align="left" alt="JavaScript" width="25px" src="./images/mongodb.svg" />
-
----
 
 [facebook]: https://www.facebook.com/profile.php?id=100006187568698
 [instagram]: https://www.instagram.com/nikito.hadzhievv/
