@@ -68,6 +68,7 @@ also for backend (Express.js, Node.js).
 [<img align="left" alt="nikola-hadzhiev | Gmail" width="22px" src="./images/email-white.svg" />][gmail]
 [<img align="left" alt="nikola-hadzhiev | Facebook" width="22px" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="nikola-hadzhiev | Facebook" width="22px" src="./images/instagram.svg" />][instagram]
+[<img align="left" alt="nikola-hadzhiev | LinkedIn" width="22px" src="./images/instagram.svg" />][linkedin]
 <br />
 
 ---
@@ -93,3 +94,4 @@ also for backend (Express.js, Node.js).
 [facebook]: https://www.facebook.com/profile.php?id=100006187568698
 [instagram]: https://www.instagram.com/nikito.hadzhievv/
 [gmail]: nikihad2012@gmail.com
+[linkedin]: https://www.linkedin.com/in/nikola-hadzhiev-66879921a/
