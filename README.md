@@ -68,7 +68,7 @@ also for backend (Express.js, Node.js).
 [<img align="left" alt="nikola-hadzhiev | Gmail" width="22px" src="./images/email-white.svg" />][gmail]
 [<img align="left" alt="nikola-hadzhiev | Facebook" width="22px" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="nikola-hadzhiev | Facebook" width="22px" src="./images/instagram.svg" />][instagram]
-[<img align="left" alt="nikola-hadzhiev | LinkedIn" width="22px" src="./images/instagram.svg" />][linkedin]
+[<img align="left" alt="nikola-hadzhiev | LinkedIn" width="22px" src="./images/linkedin.svg" />][linkedin]
 <br />
 
 ---
