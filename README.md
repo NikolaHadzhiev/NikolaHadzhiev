@@ -6,6 +6,7 @@
 - 👯 I like to participate in teamwork projects, but I also enjoy to write code on my own.
 - 👩🏻‍💻 Extremely keen on mastering new technologies
 - 🚀 Projects I am very proud of: https://github.com/GNA-projects
+- 🏅🎓View my certifications at: https://github.com/NikolaHadzhiev/Certificates
 - ⚡ Fun fact: I am very beneficial when we talk about self-study. I have a great concentration and patience.
 
 ---
