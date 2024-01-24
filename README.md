@@ -8,7 +8,7 @@
 - 🚀 Projects I am very proud of: https://github.com/GNA-projects
 - 🏅🎓View my certifications at: https://github.com/NikolaHadzhiev/Certificates
 - ⚡ Fun fact: I am very beneficial when we talk about self-study. I have a great concentration and patience.
-
+- 💼 You can view my portfolio website at: https://nikolahadzhiev.github.io/NikolaHadzhiev-Portfolio/
 ---
 
 ### C# Skills
